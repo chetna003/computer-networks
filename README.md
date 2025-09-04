@@ -1,9 +1,9 @@
 # 🚀 CRC-A Network Enhancer
 
 A C++ simulation tool for CRC (Cyclic Redundancy Check)-based error detection in digital communication systems.  
-This project was developed as part of the **Computer_Networks_CS425 (2024)** by **Surendra Kumar Ahirwar (Roll No: 211083)**.
+This project was developed as part of the **Computer_Networks_CS425 (2024)** by **Chetna Lokhande (Roll No: 210285)**.
 
-# for more information refer to https://github.com/surendrak21/Computer_Networks_CS425
+# for more information refer to https://github.com/chetna003/computer-networks
 
 ---
 
@@ -36,7 +36,7 @@ It demonstrates core networking concepts such as:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/crc-a-network-enhancer.git
+git clone https://github.com/chetna003/computer-networks.git
 cd crc-a-network-enhancer
 
 
